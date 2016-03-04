@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="counter_text_bg">#111</color>
+    <color name="list_background">#ffffa74e</color>
+    <color name="list_background_pressed">#ffc7e9ff</color>
+    <color name="list_divider">#ffcaff02</color>
+    <color name="list_item_title">#111</color>
+    <color name="counter_text_color">#fffffdf5</color>
+    <color name="notepad_margin">#ffffe700</color>
+    <color name="line_color">#ff00c7ff</color>
+    <color name="paper_color">#fff6ffc5</color>
+
+</resources>
